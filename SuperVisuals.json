@@ -1,0 +1,21 @@
+{
+  "IniFile": "RealSuperShadow.ini",
+  "Groups": [
+    {
+      "Name": "SuperVisuals",
+      "DisplayName": "Super Visuals",
+      "Elements": [
+        {
+          "Name": "SuperOnDoomSurf",
+          "DisplayName": "Super Shadow on Doom Surf",
+          "Description": [
+            "Use the Super Shadow model while Doom Surf is active during the transformation."
+          ],
+          "Type": "bool",
+          "DefaultValue": true
+        }
+      ]
+    }
+  ],
+  "Enums": {}
+}
