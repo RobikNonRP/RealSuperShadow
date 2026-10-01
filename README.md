@@ -47,7 +47,7 @@ required at runtime.
 
 ## GameBanana
 
-Mod page: **TODO — add the official GameBanana URL for Super Shadow over Doom Wings.**
+Mod page: https://gamebanana.com/wips/104034
 
 ## Dependencies and Licensing
 
