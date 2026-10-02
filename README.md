@@ -54,5 +54,14 @@ Mod page: https://gamebanana.com/wips/104034
 Third-party SDK and library source is not vendored here. Obtain it separately
 from the upstream projects listed in [DEVELOPMENT.md](DEVELOPMENT.md).
 
-No license has been selected for this project's source code. No LICENSE file is
-included. Third-party dependencies remain subject to their own licenses.
+Third-party components and any third-party code retain their own licenses and
+copyright notices; they are not relicensed under this project's MIT License.
+
+## License
+
+The original source code in this repository is licensed under the MIT License.
+
+Game assets, characters, trademarks, and other proprietary content from Sonic X Shadow Generations are not covered by this license and remain the property of their respective owners.
+
+See [LICENSE](LICENSE) for the full license text. This license does not grant
+rights to SEGA's game resources or to third-party components.
